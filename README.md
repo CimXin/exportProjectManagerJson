@@ -1,0 +1,2 @@
+# exportProjectManagerJson
+从git拉取repo下来之后在VS Code中生成项目文件夹（使用的是Project Manager插件）
